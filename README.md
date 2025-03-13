@@ -10,13 +10,6 @@ Kanban Board is a **drag-and-drop task management application** built with **Rea
 ✅ **Task Search & Highlighting** for quick filtering  
 ✅ **Responsive Design** – works on both desktop & mobile  
 
-
-### **Light Mode:**  
-![Light Mode](./screenshots/light-mode.png)  
-
-### **Dark Mode:**  
-![Dark Mode](./screenshots/dark-mode.png)  
-
 ## 🛠 Tech Stack  
 
 - **Frontend:** React.js, Redux, Material UI  
